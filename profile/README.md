@@ -1,7 +1,7 @@
 <h1 align="center">Video-Reason</h1>
 
 <p align="center">
-  <b>Towards Reasoning in Video Generation Models?</b><br>
+  <b>Towards Reasoning in Video Generation Models!</b><br>
   We build open-source tools to generate, evaluate, and understand reasoning in video models.
 </p>
 
