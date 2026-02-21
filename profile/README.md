@@ -28,17 +28,13 @@ Our suite spans the full pipeline: **data generation** at scale, **unified infer
 
 ### [VBVR-EvalKit](https://github.com/Video-Reason/VBVR-EvalKit) — Evaluation Toolkit
 
----
+Unified inference and evaluation across **37 video generation models**.
 
 ### [VBVR-DataFactory](https://github.com/Video-Reason/VBVR-DataFactory) — Scalable Data Generation
 
 Distributed data generation system built on **AWS Lambda** with **300+ generators**.
 
----
-
 ### [Awesome-Video-Reasoning](https://github.com/Video-Reason/Awesome-Video-Reasoning) — Paper Collection
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of research papers on **reasoning with video generation models**
 
