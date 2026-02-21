@@ -13,7 +13,7 @@
 
 ---
 
-**Very Big Video Reasoning (VBVR)** is a research initiative investigating whether video generation models can perform genuine reasoning — solving chess puzzles, navigating mazes, completing Sudoku, mental rotation, and Raven's matrices — purely through visual generation.
+**Very Big Video Reasoning (VBVR)** is a research initiative investigating whether video generation models can perform genuine reasoning — solving chess puzzles, navigating mazes, completing Sudoku, mental rotation, and Raven's matrices — purely through visual generation.[VBVR-DataFactory](https://github.com/Video-Reason/VBVR-DataFactory) implements **data generation** at scale, and [VBVR-EvalKit](https://github.com/Video-Reason/VBVR-EvalKit) implements **unified inference** across 37 commercial and open-source video models, and **deterministic evaluation** with 100+ rule-based benchmarks. All tools are open-source under Apache 2.0. 
 
 For all generators, checkout https://github.com/VBVR-DataFactory
 
