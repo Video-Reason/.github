@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://video-reason.com/">Website</a> &middot;
+  <a href="https://video-reason.com/">Website</a>;
 </p>
 
 <p align="center">
@@ -20,7 +20,9 @@
 
 **Very Big Video Reasoning (VBVR)** is a research initiative investigating whether video generation models can perform genuine reasoning — solving chess puzzles, navigating mazes, completing Sudoku, mental rotation, and Raven's matrices — purely through visual generation.
 
-Our suite spans the full pipeline: **data generation** at scale, **unified inference** across 37 commercial and open-source video models, and **deterministic evaluation** with 100+ rule-based benchmarks. All tools are open-source under Apache 2.0.
+Our suite spans the full pipeline: **data generation** at scale, **unified inference** across 37 commercial and open-source video models, and **deterministic evaluation** with 100+ rule-based benchmarks. All tools are open-source under Apache 2.0. 
+
+For all generators, checkout 
 
 ---
 
@@ -37,6 +39,17 @@ Distributed data generation system built on **AWS Lambda** with **300+ generator
 ### [Awesome-Video-Reasoning](https://github.com/Video-Reason/Awesome-Video-Reasoning) — Paper Collection
 
 A curated list of research papers on **reasoning with video generation models**
+
+---
+
+## Community
+
+- **Website**: [video-reason.com](https://video-reason.com/)
+- **Slack**: [Join our workspace](https://join.slack.com/t/vm-dataset/shared_invite/zt-3mdb2lkye-lm7ZC4OGxxRRMEi1M65hKQ)
+- **HuggingFace**: [Video-Reason](https://huggingface.co/Video-Reason)
+- **Contact**: [hokinxqdeng@gmail.com](mailto:hokinxqdeng@gmail.com)
+
+---
 
 ## Citation
 
