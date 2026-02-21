@@ -6,12 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://video-reason.com/">Website</a>;
-</p>
-
-<p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-Apache%202.0-green" />
-  <img alt="Models" src="https://img.shields.io/badge/models-37-blueviolet" />
   <img alt="Generators" src="https://img.shields.io/badge/generators-300+-orange" />
   <img alt="Evaluators" src="https://img.shields.io/badge/evaluators-100+-blue" />
 </p>
