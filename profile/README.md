@@ -22,7 +22,10 @@
 
 Our suite spans the full pipeline: **data generation** at scale, **unified inference** across 37 commercial and open-source video models, and **deterministic evaluation** with 100+ rule-based benchmarks. All tools are open-source under Apache 2.0. 
 
-For all generators, checkout 
+For all generators, checkout https://github.com/VBVR-DataFactory
+
+For documentation, benchmarks, and project updates, see:
+https://video-reason.com/
 
 ---
 
