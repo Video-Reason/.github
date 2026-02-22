@@ -72,7 +72,3 @@ If you use VBVR in your research, please cite:
   year    = {2026}
 }
 ```
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Video-Reason/VBVR-EvalKit/main/assets/logo.png" alt="VBVR Logo" width="180">
-</p>
