@@ -40,7 +40,7 @@ A curated list of research papers on **reasoning with video generation models**
 
 ## Links
 
-- **Website**: [video-reason.com](https://video-reason.com/)
+- **Website**: [Video-Reason.com](https://video-reason.com/)
 - **Paper**: [A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159v1)
 - **Slack**: [Join our workspace](https://join.slack.com/t/video-reason/shared_invite/zt-3qqf23icm-UC29fatWWYsIuzRNBR1lgg)
 - **HuggingFace**: [Video-Reason](https://huggingface.co/Video-Reason)
