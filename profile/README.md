@@ -38,9 +38,10 @@ A curated list of research papers on **reasoning with video generation models**
 
 ---
 
-## Community
+## Links
 
 - **Website**: [video-reason.com](https://video-reason.com/)
+- **Paper**: [A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159v1)
 - **Slack**: [Join our workspace](https://join.slack.com/t/video-reason/shared_invite/zt-3qqf23icm-UC29fatWWYsIuzRNBR1lgg)
 - **HuggingFace**: [Video-Reason](https://huggingface.co/Video-Reason)
 - **Contact**: [hokinxqdeng@gmail.com](mailto:hokinxqdeng@gmail.com)
@@ -55,7 +56,7 @@ If you use VBVR in your research, please cite:
 @article{vbvr2026,
   title   = {A Very Big Video Reasoning Suite},
   author  = {Wang, Maijunxian and Wang, Ruisi and Lin, Juyi and Ji, Ran and
-             Wiedemer, Thaddäus and Gao, Qingying and Luo, Dezhi and
+             Wiedemer, Thadd{\"a}us and Gao, Qingying and Luo, Dezhi and
              Qian, Yaoyao and Huang, Lianyu and Hong, Zelong and Ge, Jiahui and
              Ma, Qianli and He, Hang and Zhou, Yifan and Guo, Lingzi and
              Mei, Lantao and Li, Jiachen and Xing, Hanwen and Zhao, Tianqi and
@@ -65,10 +66,12 @@ If you use VBVR in your research, please cite:
              Xu, Yile and Xu, Hua and Blacutt, Kenton and Nguyen, Tin and
              Song, Siyuan and Sun, Haoran and Wen, Shaoyue and He, Linyang and
              Wang, Runming and Wang, Yanzhi and Yang, Mengyue and Ma, Ziqiao and
-             Millière, Raphaël and Shi, Freda and Vasconcelos, Nuno and
+             Milli{\`e}re, Rapha{\"e}l and Shi, Freda and Vasconcelos, Nuno and
              Khashabi, Daniel and Yuille, Alan and Du, Yilun and Liu, Ziming and
              Lin, Dahua and Liu, Ziwei and Kumar, Vikash and Li, Yijiang and
              Yang, Lei and Cai, Zhongang and Deng, Hokin},
-  year    = {2026}
+  journal = {arXiv preprint arXiv:2602.20159},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2602.20159}
 }
 ```
