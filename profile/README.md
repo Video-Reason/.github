@@ -11,6 +11,12 @@
   <img alt="Evaluators" src="https://img.shields.io/badge/evaluators-100+-blue" />
 </p>
 
+<p align="center">
+  <a href="https://huggingface.co/papers/month/2026-02">
+    <img src="https://raw.githubusercontent.com/VBVR-DataFactory/.github/main/assets/paper_of_month.svg" width="420"/>
+  </a>
+</p>
+
 ---
 
 **Very Big Video Reasoning (VBVR)** is a research initiative investigating whether video generation models can perform genuine reasoning — i.e. solving chess puzzles, navigating mazes, completing Sudoku, mental rotation, and Raven's matrices — purely through visual generation. [VBVR-DataFactory](https://github.com/Video-Reason/VBVR-DataFactory) is a **highly efficient, serverless data-generation engine** powered by **AWS Lambda** — capable of producing millions of puzzle instances in minutes with 300+ generators, near-linear horizontal scaling, and minimal infrastructure cost. [VBVR-EvalKit](https://github.com/Video-Reason/VBVR-EvalKit) implements **unified inference** across 37 commercial and open-source video models, and **deterministic evaluation** with 100+ rule-based benchmarks. All tools are open-source under Apache 2.0.
