@@ -18,7 +18,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://video-reason.com/?v=pro">VBVR-Pro</a></h3>
+      <h3 align="center"><a href="https://video-reason.com/?v=pro">🔥 VBVR-Pro</a></h3>
       <p align="center"><strong>A Scalable and Verifiable Suite for Native Visual Reasoning</strong></p>
       <p>
         VBVR-Pro turns visual reasoning into a scalable, verifiable training and evaluation loop: 300 procedural tasks, aligned image/interleaved text-image/video solutions, and verifiable task-specific evaluation.
@@ -28,11 +28,32 @@
         <li>Task-grounded, verifiable reward scorers</li>
         <li>Image, interleaved text-image, and video model families</li>
       </ul>
-      <p align="left">
-         · <a href="https://huggingface.co/papers/2608.26105">Paper</a><br>
-         · <a href="https://github.com/Video-Reason/VBVR-Pro">Training and inference code for all modalities</a><br>
-         · <a href="https://github.com/Video-Reason/VBVR-Pro-Bench">Benchmark evaluation code</a><br>
-         · <a href="https://huggingface.co/Video-Reason/models?search=VBVR-Pro">Strong baselines trained on VBVR-Pro-Dataset</a>
+      <p align="center">
+          <a href="https://huggingface.co/papers/2608.26105" target="_blank">
+              <img alt="arXiv" src="https://img.shields.io/badge/arXiv-VBVR_Pro-red?logo=arxiv" height="20" />
+          </a>
+          <a href="https://github.com/Video-Reason/VBVR-Pro" target="_blank">
+              <img alt="Code" src="https://img.shields.io/badge/Training_&_Inference-VBVR_Pro-100000?style=flat-square&logo=github&logoColor=white" height="20" />
+          </a>
+          <a href="https://github.com/Video-Reason/VBVR-Pro-Bench" target="_blank">
+              <img alt="Eval Code" src="https://img.shields.io/badge/Evaluation_code-VBVR_Pro_Bench-100000?style=flat-square&logo=github&logoColor=white" height="20" />
+          </a>
+          <a href="https://video-reason.com/pro/bench/#leaderboard" target="_blank">
+              <img alt="Leaderboard" src="https://img.shields.io/badge/%F0%9F%A4%97%20_VBVR_Pro_Bench-Leaderboard-ffc107?color=ffc107&logoColor=white" height="20" />
+          </a>
+          <hr style="border: none; border-top: 1px solid #ddd; margin: 8px 0;">
+          <a href="https://huggingface.co/datasets/Video-Reason/VBVR-Pro-SFT-Video" target="_blank">
+              <img alt="Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20_VBVR_Pro_Dataset-SFT_Video-ffc107?color=ffc107&logoColor=white" height="20" />
+          </a>
+          <a href="https://huggingface.co/datasets/Video-Reason/VBVR-Pro-SFT-Image" target="_blank">
+              <img alt="Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20_VBVR_Pro_Dataset-SFT_Image-ffc107?color=ffc107&logoColor=white" height="20" />
+          </a>
+          <a href="https://huggingface.co/datasets/Video-Reason/VBVR-Pro-RL" target="_blank">
+              <img alt="Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20_VBVR_Pro_Dataset-RL-ffc107?color=ffc107&logoColor=white" height="20" />
+          </a>
+          <a href="https://huggingface.co/datasets/Video-Reason/VBVR-Pro-Bench" target="_blank">
+              <img alt="Bench Data" src="https://img.shields.io/badge/%F0%9F%A4%97%20_VBVR_Pro_Bench-Data-ffc107?color=ffc107&logoColor=white" height="20" />
+          </a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -45,10 +66,25 @@
         <li>Study of data scaling behaviour</li>
         <li>Comprehensive evaluation on proprietary and open-source video models</li>
       </ul>
-      <p align="left">
-        · <a href="https://arxiv.org/abs/2602.20159">Paper</a><br>
-        · <a href="https://github.com/Video-Reason/VBVR-Wan2.2">Training and inference code for VBVR-Wan2.2 and VBVR-LTX2.3 </a><br>
-        · <a href="https://github.com/Video-Reason/VBVR-EvalKit">Benchmark evaluation code</a><br>
+      <p align="center">
+          <a href="https://huggingface.co/papers/2602.20159" target="_blank">
+              <img alt="arXiv" src="https://img.shields.io/badge/arXiv-VBVR-red?logo=arxiv" height="20" />
+          </a>
+          <a href="https://github.com/Video-Reason/VBVR-Wan2.2" target="_blank">
+              <img alt="Code" src="https://img.shields.io/badge/Training_&_Inference-VBVR-100000?style=flat-square&logo=github&logoColor=white" height="20" />
+          </a>
+          <a href="https://github.com/Video-Reason/VBVR-EvalKit" target="_blank">
+              <img alt="Eval Code" src="https://img.shields.io/badge/Evaluation_code-VBVR_Bench-100000?style=flat-square&logo=github&logoColor=white" height="20" />
+          </a>
+          <a href="https://video-reason.com/bench/#leaderboard" target="_blank">
+              <img alt="Leaderboard" src="https://img.shields.io/badge/%F0%9F%A4%97%20_VBVR_Bench-Leaderboard-ffc107?color=ffc107&logoColor=white" height="20" />
+          </a>
+          <a href="https://huggingface.co/datasets/Video-Reason/VBVR-Dataset" target="_blank">
+              <img alt="Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20_VBVR-Dataset-ffc107?color=ffc107&logoColor=white" height="20" />
+          </a>
+          <a href="https://huggingface.co/datasets/Video-Reason/VBVR-Bench-Data" target="_blank">
+              <img alt="Bench Data" src="https://img.shields.io/badge/%F0%9F%A4%97%20_VBVR_Bench-Data-ffc107?color=ffc107&logoColor=white" height="20" />
+          </a>
       </p>
     </td>
   </tr>
