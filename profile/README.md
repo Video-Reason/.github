@@ -28,11 +28,11 @@
         <li>Task-grounded, verifiable reward scorers</li>
         <li>Image, interleaved text-image, and video model families</li>
       </ul>
-      <p align="center">
-        <a href="https://huggingface.co/papers/2608.26105">Paper</a> ·
-        <a href="https://github.com/Video-Reason/VBVR-Pro">Training and inference code for all modalities</a> ·
-        <a href="https://github.com/Video-Reason/VBVR-Pro-Bench">Benchmark evaluation code</a> ·
-        <a href="https://huggingface.co/Video-Reason/models?search=VBVR-Pro">Strong baselines trained on VBVR-Pro-Dataset</a>
+      <p align="left">
+         · <a href="https://huggingface.co/papers/2608.26105">Paper</a><br>
+         · <a href="https://github.com/Video-Reason/VBVR-Pro">Training and inference code for all modalities</a><br>
+         · <a href="https://github.com/Video-Reason/VBVR-Pro-Bench">Benchmark evaluation code</a><br>
+         · <a href="https://huggingface.co/Video-Reason/models?search=VBVR-Pro">Strong baselines trained on VBVR-Pro-Dataset</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -42,13 +42,13 @@
         Our first investigation on whether video generation models can solve visual reasoning tasks through generation.
       </p>
       <ul>
-        <li><strong>Study of data scaling behaviour</li>
+        <li>Study of data scaling behaviour</li>
         <li>Comprehensive evaluation on proprietary and open-source video models</li>
       </ul>
-      <p align="center">
-        <a href="https://arxiv.org/abs/2602.20159">Paper</a> ·
-        <a href="https://github.com/Video-Reason/VBVR-Wan2.2">Training and inference code for VBVR-Wan2.2 and VBVR-LTX2.3 </a> ·
-        <a href="https://github.com/Video-Reason/VBVR-EvalKit">Benchmark evaluation code</a>
+      <p align="left">
+        · <a href="https://arxiv.org/abs/2602.20159">Paper</a><br>
+        · <a href="https://github.com/Video-Reason/VBVR-Wan2.2">Training and inference code for VBVR-Wan2.2 and VBVR-LTX2.3 </a><br>
+        · <a href="https://github.com/Video-Reason/VBVR-EvalKit">Benchmark evaluation code</a><br>
       </p>
     </td>
   </tr>
