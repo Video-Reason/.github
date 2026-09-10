@@ -28,7 +28,7 @@
         <li>Task-grounded, verifiable reward scorers</li>
         <li>Image, interleaved text-image, and video model families</li>
       </ul>
-      <p align="center">
+      <div align="center">
           <a href="https://huggingface.co/papers/2608.26105" target="_blank">
               <img alt="arXiv" src="https://img.shields.io/badge/arXiv-VBVR_Pro-red?logo=arxiv" height="20" />
           </a>
@@ -54,7 +54,7 @@
           <a href="https://huggingface.co/datasets/Video-Reason/VBVR-Pro-Bench" target="_blank">
               <img alt="Bench Data" src="https://img.shields.io/badge/%F0%9F%A4%97%20_VBVR_Pro_Bench-Data-ffc107?color=ffc107&logoColor=white" height="20" />
           </a>
-      </p>
+      </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://video-reason.com/">VBVR</a></h3>
