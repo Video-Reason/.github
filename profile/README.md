@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://huggingface.co/papers/month/2026-02">
-    <img src="https://raw.githubusercontent.com/VBVR-DataFactory/.github/main/assets/paper_of_month.svg" width="420"/>
+    <img src="https://raw.githubusercontent.com/Video-Reason/.github/main/assets/paper_of_month.svg" width="420"/>
   </a>
 </p>
 
